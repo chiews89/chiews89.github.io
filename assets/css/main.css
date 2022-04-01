@@ -3329,7 +3329,7 @@ input, select, textarea {
 /* Main */
 .fa-brands {
 	font-size: 50px;
-	color: white;
+	color: black;
 }
 
 	#main {
@@ -3785,5 +3785,9 @@ input, select, textarea {
 
 	.fa-solid {
 		font-size: 50px;
-		color: white;
+		color: black;
+	}
+
+	.iconify {
+		color: black;
 	}
